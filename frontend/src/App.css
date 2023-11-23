@@ -1,0 +1,8 @@
+td {
+  border: 1px solid black;
+  border-right: none;
+}
+
+tr {
+  border-right: 1px solid black;
+}
